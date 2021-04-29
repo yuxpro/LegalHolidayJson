@@ -6,8 +6,9 @@
  
 
 ### 使用方式：
-1. get请求：https://raw.githubusercontent.com/yuxpro/LegalHolidayJson/main/yyyy.json 其中yyyy指年份，如：2021
-> 返回数据格式为：
+1. get请求：https://raw.githubusercontent.com/yuxpro/LegalHolidayJson/main/country/yyyy.json 
+> 其中country指国家，如：China，yyyy指年份，如：2021
+> 如：https://raw.githubusercontent.com/yuxpro/LegalHolidayJson/main/China/2021.json 返回数据格式为：
 
 {
   "data":{
